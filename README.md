@@ -1,4 +1,4 @@
-# INFO-I 308 Information Representation (SP19) - Final Project
+# INFO-I 308 Information Representation (FA19) - Final Project
 ###### Team 31: Andy Bai, Val De Lira, Lucas Major, Chase Page
 ---
 Final project deliverables for I308 Information Representation, where we were asked to demonstrate our skills and understanding of relational database design, development, and management by builiding a database & retrieval platform for a made-up university.
